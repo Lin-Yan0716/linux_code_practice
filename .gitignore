@@ -1,0 +1,31 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+
+# 可执行文件
+process_pool
+pocess_pool
+
+# 调试文件
+*.dSYM
+*.su
+*.idb
+*.pdb
+
+# 编辑器备份
+*~
+*.swp
+*.swo
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
